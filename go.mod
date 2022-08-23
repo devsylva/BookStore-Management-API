@@ -1,4 +1,4 @@
-module go-bookstore
+module github.com/devsylva/go-bookstore
 
 go 1.18
 
